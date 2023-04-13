@@ -1,4 +1,5 @@
-# Golaya. Golang project initializer. 
+# Golaya. Golang project initializer.
+CLI tool for new golang project initialization with [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
 
 # Installation
 ```sh
