@@ -16,7 +16,7 @@ USER_BIN_DIRS=(
 
 IS_USR_DIR_IN_PATH=true
 
-DOWNLOAD_URL="https://gist.githubusercontent.com/russell-kvashnin/acd9d71823dc36d1ee7670a9108a6751/raw/c47dd62cbe3b393cbb80f40fcef0000a1ae5e17d/golaya.sh"
+DOWNLOAD_URL="https://raw.githubusercontent.com/russell-kvashnin/golaya/main/golaya.sh"
 
 downloader=""
 
